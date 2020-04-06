@@ -1,2 +1,2 @@
 # dee-git
-demo repo to learn git
+demo repo to practise git
